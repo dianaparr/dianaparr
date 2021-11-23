@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diana Parra</h1>
-<h3 align="center">A natural sciences and environmental education graduate with a passion for programming logic, data science and backend development from Medellín-Colombia</h3>
+<h3 align="center">A natural sciences and environmental education graduate with a passion for programming logic, data science and backend development from Medellín-Colombia
+One of my greatest passions is to always learn new things that challenge my mind and my abilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dianaparr&label=Profile%20views&color=ad7fa8&style=flat-square" alt="dianaparr" /> </p>
 
